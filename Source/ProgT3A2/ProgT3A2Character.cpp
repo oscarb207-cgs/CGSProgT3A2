@@ -11,6 +11,7 @@
 #include "EnhancedInputSubsystems.h"
 #include "InputActionValue.h"
 #include "ProgT3A2.h"
+#include "Kismet/GameplayStatics.h"
 
 AProgT3A2Character::AProgT3A2Character()
 {
